@@ -1,4 +1,4 @@
-
+#
 修改注意：
 
 1) 添加了新的模块，要在POM中maven-shade-plugin的<artifactSet>中添加<include>
